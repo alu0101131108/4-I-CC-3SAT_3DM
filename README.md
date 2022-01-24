@@ -2,7 +2,7 @@ Es necesario la versión 3 de python para poder usar el programa
 
 # Entrada
 
-python .py [archivo con la entrada del problema 3SAT en formato JSON]
+python main.py [archivo con la entrada del problema 3SAT en formato JSON]
 
 # Salida
 
